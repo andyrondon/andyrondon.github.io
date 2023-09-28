@@ -111,6 +111,12 @@ body {
     font-size: 25px;    
     margin-top: -1cm;
   }
+
+  #about-me ul {
+    color: #D8D9DA;
+    font-size: 25px;    
+    margin-top: -1cm;
+  }
   
   .profile_image {
     width: 550px;
@@ -119,6 +125,61 @@ body {
     margin: 5px;
   }
   
+  /* udemy */
+  
+  .udemy {
+    display: flex;
+    align-items: center;
+  }
+  
+  #udemy h1 {
+    color: #D8D9DA;
+    font-size: 55px;
+    margin-top: 90px;    
+  }
+
+  #udemy h2 {
+    color: #D8D9DA;
+    font-size: 45px;
+    margin-top: 90px;    
+  }
+
+  #udemy h3 {
+    color: #D8D9DA;
+    font-size: 35px;
+    margin-top: 90px;    
+  }
+
+  #udemy h4 {
+    color: #D8D9DA;
+    font-size: 25px;
+    margin-top: 90px;    
+  }
+
+  #udemy h5 {
+    color: #D8D9DA;
+    font-size: 15px;
+    margin-top: 90px;    
+  }
+
+  #udemy h6 {
+    color: #D8D9DA;
+    font-size: 5px;
+    margin-top: 90px;    
+  }
+  
+  #udemy p {
+    color: #D8D9DA;
+    font-size: 25px;    
+    margin-top: -1cm;
+  }
+
+  #udemy ul {
+    color: #D8D9DA;
+    font-size: 25px;    
+    margin-top: -1cm;
+  }
+
   /* Skills */
   
   .all_skills {
